@@ -1,0 +1,9 @@
+{
+  "name": "stickyinserter",
+  "version": "1.0.2",
+  "description": "Ever want that juicy 1 grid to be useful?  Why that Inserter have to be on ground when it can be on top of  the machine",
+  "title": "Sticky Inserter",
+  "author": "Yoshirakou",
+  "factorio_version": "2.0",
+  "dependencies": []
+}
